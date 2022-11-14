@@ -223,7 +223,7 @@ Headers:
 
 # Burp Suite integration
 
-The burpsuite integration is done via the [https://portswigger.net/bappstore/f089f1ad056545489139cb9f32900f8e](send to) extension.
+The burpsuite integration is done via the [send to](https://portswigger.net/bappstore/f089f1ad056545489139cb9f32900f8e) extension.
 
 ### Setting up
 
